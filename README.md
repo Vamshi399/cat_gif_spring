@@ -1,6 +1,6 @@
 # cat_gif_spring
 # How to Run
-1) Download the Spring Tools Suite(sts) from the official website.
+1) Download the Spring Tools Suite(sts) from the official website and docker desktop.
 2) Download the JDK 1.8.0_241 from the official website and set the java environment variables(JAVA_HOME and PATH).
 3) Download the h2 browser from official website and login into the Generic H2(Server) from h2 console using credentials username:sa and password:tisadmin
 4) Clone this project into the sts and setup buildpath with this jdk library.
