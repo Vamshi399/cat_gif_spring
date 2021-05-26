@@ -2,7 +2,7 @@
 # How to Run
 1) Download the Spring Tools Suite(sts) from the official website and docker desktop.
 2) Download the JDK 1.8.0_241 from the official website and set the java environment variables(JAVA_HOME and PATH).
-3) Download the h2 browser from official website and login into the Generic H2(Server) from h2 console using credentials username:sa and password:tisadmin
+3) Download the h2 database from official website and login into the Generic H2(Server) from h2 console using credentials username:sa and password:tisadmin
 4) Clone this project into the sts and setup buildpath with this jdk library.
 5) Run the maven build for this project by goals setting as (clean compile install) by user setting as settings.xml, and also by using embedded maven runtime.
 6) To run the application locally we have login to the database and run the application as spring boot application. 
