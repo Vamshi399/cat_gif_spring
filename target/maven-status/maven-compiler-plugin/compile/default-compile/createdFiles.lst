@@ -1,0 +1,8 @@
+com\crud\controller\UserController.class
+com\crud\service\CatService.class
+com\crud\entity\User.class
+com\crud\repository\CatRepository.class
+com\crud\repository\UserRepository.class
+com\crud\entity\Cat.class
+com\crud\SpringBootCrudExample2Application.class
+com\crud\service\UserService.class
